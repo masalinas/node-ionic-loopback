@@ -16,5 +16,5 @@
   "Stock": {
         "dataSource": "test",
         "public": true
-    }
+  }
 }

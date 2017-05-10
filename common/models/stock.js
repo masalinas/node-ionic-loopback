@@ -1,2 +1,2 @@
-module.exports = function(Measure) {
+module.exports = function(Stock) {
 }
