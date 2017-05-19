@@ -1,1 +1,19 @@
-/* Empty. Add your own CSS if you like */
+/*.scroll-bar.scroll-bar-v {
+    width: 10px !important;
+}
+
+.scroll-bar.scroll-bar-h {
+    width: 10px !important;
+}
+
+.ng-animate .scroll-bar {
+    visibility: visible !important;
+}
+
+.scroll-bar-fade-out {
+    opacity:1 !important
+}*/
+
+.scroll-bar-indicator {
+    display: none;
+}
